@@ -1,0 +1,4 @@
+interface:
+  display_name: "WoS Citation Analysis"
+  short_description: "Analyze WoS cited references to build co-citation clusters, annual local citation series, "
+  default_prompt: "Use $literature-wos-analysis for this task, preserving sources and evidence scope."

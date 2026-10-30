@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Library Screening"
+  short_description: "Match Zotero metadata and attachments, cache text, identify duplicates, and screen titles "
+  default_prompt: "Use $literature-zotero-screen for this task, preserving sources and evidence scope."

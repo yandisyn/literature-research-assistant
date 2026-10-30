@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+output/
+outputs/
+data/
+*.sqlite
+*.sqlite-*
+*.sqlite.bak
+savedrecs*.txt
+*.pdf
+.DS_Store

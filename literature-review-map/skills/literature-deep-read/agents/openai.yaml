@@ -1,0 +1,4 @@
+interface:
+  display_name: "Full-text Reading"
+  short_description: "Read specified papers in full and document questions, methods, data, results, limitations,"
+  default_prompt: "Use $literature-deep-read for this task, preserving sources and evidence scope."

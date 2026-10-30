@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Research Assistant"
+  short_description: "Screen, read, export, analyze citations, and plot literature evidence"
+  default_prompt: "Use $literature-review-map to choose the relevant literature workflow."

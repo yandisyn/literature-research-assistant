@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Literature Figures"
+  short_description: "Generate English static scientific figures from existing literature data, including curved"
+  default_prompt: "Use $literature-figures for this task, preserving sources and evidence scope."

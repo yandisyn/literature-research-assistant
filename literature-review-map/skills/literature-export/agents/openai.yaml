@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Table Export"
+  short_description: "Export existing PDF, Zotero, or WoS records to Excel and CSV while preserving sources, evi"
+  default_prompt: "Use $literature-export for this task, preserving sources and evidence scope."

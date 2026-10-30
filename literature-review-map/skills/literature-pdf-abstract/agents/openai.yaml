@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF First Pages and Abstracts"
+  short_description: "Extract traceable metadata and abstract-level notes from local PDF first pages or covers w"
+  default_prompt: "Use $literature-pdf-abstract for this task, preserving sources and evidence scope."
